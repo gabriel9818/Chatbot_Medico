@@ -1,0 +1,39 @@
+{
+  "id": "bccc5e34-a64b-4779-b7ad-ea16d1b613e4",
+  "parentId": "739f4b69-b945-4247-82e9-1eb877d32c46",
+  "rootParentId": "739f4b69-b945-4247-82e9-1eb877d32c46",
+  "name": "cabeza - next-2",
+  "auto": true,
+  "contexts": [
+    "cabeza-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cabeza.cabeza-next-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Te recomiendo descansar y alejarte de toda pantalla con luz azul, tomar un baño de agua caliente puede ayudar a relajarte, y también puede disminuir algún dolor muscular que pueda estar contribuyendo a un dolor de cabeza intenso. Recuerda que este Chatbot es solo un simulador, no te automediques."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

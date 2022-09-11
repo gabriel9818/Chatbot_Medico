@@ -1,0 +1,55 @@
+{
+  "id": "9adec725-f2fc-4ea2-bd4d-148a8f86f4f8",
+  "name": "informacion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Hola, soy una inteligencia artificial creada por estudiantes de la Universidad Central del Ecuador y fui creado con el fin de ayudar a que te sientas mejor."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://us.123rf.com/450wm/gonshi4545/gonshi45451712/gonshi4545171200061/92288059-rob%C3%B4s-com-intelig%C3%AAncia-artificial-como-m%C3%A9dico-t%C3%AAm-inje%C3%A7%C3%A3o-na-m%C3%A3o-na-frente-de-um-menino-.jpg?ver\u003d6",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

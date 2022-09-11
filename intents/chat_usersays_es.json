@@ -1,0 +1,84 @@
+[
+  {
+    "id": "db78761e-b0d3-4361-a60c-945d76449906",
+    "data": [
+      {
+        "text": "Estoy enfermo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "df2b2fc3-773a-4a4d-9787-7da0201df733",
+    "data": [
+      {
+        "text": "Me siento mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6e3960e8-fa6a-4552-afbd-bddfe5bcfa97",
+    "data": [
+      {
+        "text": "Me duele el cuerpo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b43b3de7-9165-4a7c-bd3b-1fdf912c4db9",
+    "data": [
+      {
+        "text": "Me duele ",
+        "userDefined": false
+      },
+      {
+        "text": "la garganta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c9a8718e-a62e-4f84-976b-e7301239c071",
+    "data": [
+      {
+        "text": "Tengo fiebre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fe301d96-6927-41a9-8ee6-e778c1690c74",
+    "data": [
+      {
+        "text": "Me duele la cabeza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

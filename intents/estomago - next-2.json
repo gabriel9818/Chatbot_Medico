@@ -1,0 +1,39 @@
+{
+  "id": "3ac5154c-fb36-4cff-b0f8-acdb05b1b254",
+  "parentId": "18c4b2a3-2f32-4dfc-978e-2d3b1072a492",
+  "rootParentId": "18c4b2a3-2f32-4dfc-978e-2d3b1072a492",
+  "name": "estomago - next-2",
+  "auto": true,
+  "contexts": [
+    "estomago-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "estomago.estomago-next-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Cuando el dolor se focaliza en la zona del centro del abdomen, suele ser causado por una mala digestión o un eventual estreñimiento a trastornos más serios, si los síntomas persisten consulte a su médico de confianza.  Se le recomienda evitar consumir alimentos que sean difíciles de digerir y tomar un té de orégano, ya que este contiene propiedades antiespasmódicas y estimula las secreciones digestivas, por lo que te pueden ayudar a aliviar los dolores de estomacales. Recuerda que este Chatbot es solo un simulador, no te automediques."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

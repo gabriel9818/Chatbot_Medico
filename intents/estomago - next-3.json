@@ -1,0 +1,39 @@
+{
+  "id": "1fc8f170-08a0-423d-a106-25165d3884d9",
+  "parentId": "18c4b2a3-2f32-4dfc-978e-2d3b1072a492",
+  "rootParentId": "18c4b2a3-2f32-4dfc-978e-2d3b1072a492",
+  "name": "estomago - next-3",
+  "auto": true,
+  "contexts": [
+    "estomago-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "estomago.estomago-next-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "El dolor en el lado izquierdo del abdomen es en la mayoría de las veces una señal de exceso de gases o de estreñimiento, este tipo de dolor puede ser causante de otros síntomas como hinchazón abdominal, sensación de peso en la barriga o eructos frecuentes. Si los síntomas persisten, consulte a su médico de confianza. Se le recomienda tomar una Infusión de Jengibre con limón, el cual ayudara a aliviar los dolores y problemas de digestión o reflujo. Recuerda que este Chatbot es solo un simulador, no te automediques."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

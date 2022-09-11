@@ -1,0 +1,39 @@
+{
+  "id": "07675a39-078d-4dd2-99c3-59573b36875d",
+  "parentId": "739f4b69-b945-4247-82e9-1eb877d32c46",
+  "rootParentId": "739f4b69-b945-4247-82e9-1eb877d32c46",
+  "name": "cabeza - next",
+  "auto": true,
+  "contexts": [
+    "cabeza-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cabeza.cabeza-next",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Debes tener un dolor de cabeza común, por estrés o insolación, te recomiendo descansar y alejarte de toda pantalla con luz azul y tomar un té de manzanilla. Recuerda que este Chatbot es solo un simulador, no te automediques."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

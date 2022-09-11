@@ -1,0 +1,14 @@
+{
+  "id": "b6aa9650-6a63-47cb-8f76-47f885293dcb",
+  "name": "Saludos",
+  "auto": true,
+  "contexts": [],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

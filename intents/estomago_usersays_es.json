@@ -1,0 +1,75 @@
+[
+  {
+    "id": "bb7d674d-9892-44d3-814f-ebbd97338dda",
+    "data": [
+      {
+        "text": "dolor de ",
+        "userDefined": false
+      },
+      {
+        "text": "barriga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "47a76c99-351c-40dd-bb47-6cb948635abd",
+    "data": [
+      {
+        "text": "Me duele el vientre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "bbe759f5-3d1b-4fd9-8eaf-8ce5a71e7c70",
+    "data": [
+      {
+        "text": "Me duele la ",
+        "userDefined": false
+      },
+      {
+        "text": "barriga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "15710191-3dec-4db3-b956-3761f66c7456",
+    "data": [
+      {
+        "text": "Me duele el estomago",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ced36be9-2cab-44a6-8fc2-97cb56a73d29",
+    "data": [
+      {
+        "text": "dolor de estomago",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]
